@@ -1,0 +1,14 @@
+{
+  "name": "genisis",
+  "version": "1.0.0",
+  "description": "Jogo Genisis",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eloi J Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "javascript": "^1.0.0"
+  }
+}
